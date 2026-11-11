@@ -1,0 +1,13 @@
+display.c:22:9:display7SEGs	24	static
+display.c:29:9:enableSEGs	24	static
+display.c:42:6:displayNumbers	16	static
+display.c:63:6:numbersOff	8	static
+display.c:69:6:displayRed_Green	8	static
+display.c:79:6:displayRed_Yellow	8	static
+display.c:89:6:displayGreen_Red	8	static
+display.c:99:6:displayYellow_Red	8	static
+display.c:110:6:displayNone	8	static
+display.c:120:6:displayAllRed	8	static
+display.c:129:6:displayAllGreen	8	static
+display.c:138:6:displayAllYellow	8	static
+display.c:147:6:displayAll	8	static
